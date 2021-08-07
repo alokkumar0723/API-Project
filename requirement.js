@@ -31,37 +31,18 @@
 //To get all the publications  -DONE
 //To get a specific publication by name -DONE
 //To get a list of publications based on a book  -DONE
-//Requirement for our project
 
 
-//We are a book management company
+//POST REQUEST
+//1.ADD NEW BOOK  -DONE
+//2.ADD NEW Publication
+//3.ADD NEW AUTHOR
 
-//BOOKS
-//ISBN, title, pub date, language, num page, author[], category[]
 
-//AUTHORS
-//id, name, books[]
+/**********PUT***********/
+//Update book details if author is changed. - DONE
 
-//PUBLICATIONS
-//id, name, books[]
-
-//We have to design and code an API over this .
-
-//1. BOOKS
-//We need an API :-
-//To get all the books  Done
-//To get specific book
-//To get a list of books based on category
-//To get a list of books based on languages
-
-//2. AUTHORS
-//We need an API :-
-//To get all the authors
-//To get a specific author
-//To get a list of authors based on books
-
-//3. PUBLICATIONS
-//We need an API :-
-//To get all the publications
-//To get a specific publication
-//To get a list of publications based on a book
+/*****DELETE****/
+//1. Delete a book - DONE
+//2. Delete author from book - UR TASK
+//3. Delete author from book and related book from author -

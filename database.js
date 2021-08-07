@@ -6,7 +6,7 @@ const books = [
     language: "en",
     numPage: 250,
     author: [1,2],
-    publications: [1,2],
+    publications: [1],
     category: ["tech","space","education"]
   }
 ]
@@ -32,8 +32,8 @@ const publication = [
   },
   {
     id: 2,
-    name: "hkdas",
-    books: ["secretBook"]
+    name: "writex2",
+    books: []
   }
 ]
 
